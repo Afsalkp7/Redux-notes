@@ -21,3 +21,8 @@ INTRODUCTION
     Redux tool kit is a recommended approach for writing redux logics , It contain packages and functions that we think are essential for creaing a redux app . It is a best pracrices , simplify most redux tasks , prevent common mistakes , and make it easier to write redux app
 - Redux DevTool extension ? <br />
     It show the history of changes to the state , and it used to simply and effectively debugg the applicaiton.
+
+<hr />
+
+- Action ? <br />
+    An acntion is a plain javascript object that has a type field . <b>Action as an event</b> that describes something that happened in application.
