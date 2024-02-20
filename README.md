@@ -53,4 +53,6 @@ INTRODUCTION
     * Each UI component that needs data from the store checks to see if the parts of the state they need have changed 
     * If any changes occur , the component force to re render with new data , it update what you see on the screen.
 
-    <img src="https://redux.js.org/assets/images/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif" >
+    <img src="https://redux.js.org/assets/images/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif" />
+
+    
