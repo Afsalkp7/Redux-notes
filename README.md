@@ -54,5 +54,5 @@ INTRODUCTION
     * If any changes occur , the component force to re render with new data , it update what you see on the screen.
 
     <img src="https://redux.js.org/assets/images/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif" />
-
+<hr/>
     
