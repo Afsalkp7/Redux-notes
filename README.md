@@ -25,7 +25,7 @@ INTRODUCTION
 <hr />
 
 - Action ? <br />
-    An acntion is a plain javascript object that has a type field . <b>Action as an event</b> that describes something that happened in application.
+    An action is a plain javascript object that has a type field . <b>Action as an event</b> that describes something that happened in application.
 - Payload ? <br />
     An action object can have other field with additional information about what happened. we put that information in a field called <mark>payload</mark>.
 - Reducers ? <br />
