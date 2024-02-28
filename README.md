@@ -49,7 +49,7 @@ INTRODUCTION
     * Something happens in app like click or any other events
     * App code dispatch an actopn to the store
     * The app run the reducer function again with the previous state and current state and return value as the new state
-    * The store notify to al parts of application about updation of store
+    * The store notify to all parts of application about updation of store
     * Each UI component that needs data from the store checks to see if the parts of the state they need have changed 
     * If any changes occur , the component force to re render with new data , it update what you see on the screen.
 
