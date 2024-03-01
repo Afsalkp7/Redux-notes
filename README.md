@@ -1,7 +1,7 @@
 # REDUX Q and A ❓⁉
 
 INTRODUCTION
-
+<hr />
 - What is redux ? <br /> 
     Redux is a pattern or library to managing and updating states in an application using events called "actions" . It serve a centralized store for state , thats need to be used across the entire applicaion.
 - What is global state ? <br />
