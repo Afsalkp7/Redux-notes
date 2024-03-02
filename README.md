@@ -9,10 +9,10 @@ INTRODUCTION
 - Why use redux ? 
     The pattern and tools provoided by redux make it easier to under stand how , when , where the state in your application being updated , and how your application behave on those changes occur.
 - When should use the redux ? <br />
-    * Large amount of application states and that needed in many places in the app
-    * App state updated freequently over time
-    * Logic to upddate the state maybe complex
-    * Apps are medium or large sized code base and might be worked on by meny people
+    * Large amount of application states and that needed in many places in the app <br />
+    * App state updated freequently over time <br />
+    * Logic to upddate the state maybe complex <br />
+    * Apps are medium or large sized code base and might be worked on by meny people <br />
 <hr />
 
 - React redux ? <br />
